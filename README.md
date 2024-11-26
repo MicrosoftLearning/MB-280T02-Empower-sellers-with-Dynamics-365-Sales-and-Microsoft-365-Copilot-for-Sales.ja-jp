@@ -10,7 +10,7 @@
 - [MB-280T04: Dynamics 365 カスタマー エクスペリエンス ソリューションを構成する](https://github.com/MicrosoftLearning/MB-280T04-Configure-a-Dynamics-365-customer-experience-solution)
 
 
-## MCT の情報
+## MCT 向けの情報
 
 **あなたは MCT ですか?** - [MCT 向けの GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
 
